@@ -22,7 +22,7 @@ Job data was scattered, inconsistent, and missing critical details, making it di
 ## Tools & Technologies
 - SQL Server  
 - Power BI
-
+- Python
 ## How to Use
 1. Clone the repository.
 2. Load data into SQL Server.
